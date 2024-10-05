@@ -16,6 +16,8 @@ const AppLayout=()=>{
 
         <div className="app">
                 {/* //header */}
+                
+                <About/>
                 <Header/>
                <Outlet/>
         </div>
