@@ -14,7 +14,7 @@ import RestaurantMenuPAge from "./components/RestaurantMenuPAge";
 const AppLayout=()=>{
     return (
 
-        <div className="app">
+        <div className="bananahello">
                 {/* //header */}
                 
                 <About/>
